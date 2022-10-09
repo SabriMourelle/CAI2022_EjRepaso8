@@ -1,0 +1,7 @@
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso8\EjRepaso8\EjRepaso8\bin\Debug\EjRepaso8.exe.config
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso8\EjRepaso8\EjRepaso8\bin\Debug\EjRepaso8.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso8\EjRepaso8\EjRepaso8\bin\Debug\EjRepaso8.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso8\EjRepaso8\EjRepaso8\obj\Debug\EjRepaso8.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso8\EjRepaso8\EjRepaso8\obj\Debug\EjRepaso8.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso8\EjRepaso8\EjRepaso8\obj\Debug\EjRepaso8.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso8\EjRepaso8\EjRepaso8\obj\Debug\EjRepaso8.pdb
